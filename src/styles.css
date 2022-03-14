@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.iframe {
+  min-height: 50vh;
+  min-width: 50vw;
+  margin-left: 50%;
+  margin-top: 10vh;
+  transform: translateX(-50%);
+}
